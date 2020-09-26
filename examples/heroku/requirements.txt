@@ -1,2 +1,0 @@
-invoke==0.13.0
-requests==2.20.0

@@ -2,12 +2,9 @@
 Credits
 =======
 
-Development Lead
-----------------
+Forked from:
+https://github.com/rentlytics/django-zerodowntime, by Phil Plante <phil@rentlytics.com>, Development Lead
 
-* Phil Plante <phil@rentlytics.com>
 
-Contributors
-------------
-
-None yet. Why not be the first?
+Forked by:
+Jake Berkson
